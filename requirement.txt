@@ -11,3 +11,17 @@ import base64
 import streamlit as st
 import plotly.express as px
 from pi import *
+streamlit
+pandas
+matplotlib
+base64
+plotly.express
+numpy
+option_menu
+streamlit_option_menu
+Image
+PIL
+requests
+st_lottie
+streamlit_lottie
+pyplot
