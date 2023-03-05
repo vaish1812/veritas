@@ -1,3 +1,16 @@
+import pickle
+import streamlit as st
+from streamlit_option_menu import option_menu
+from PIL import Image
+import matplotlib.pyplot as plt
+import numpy as np
+import requests
+from streamlit_lottie import st_lottie
+from matplotlib import pyplot as plt
+import base64
+import streamlit as st
+import plotly.express as px
+from pi import *
 
 st.set_page_config(page_title="VAM", page_icon="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.citypng.com%2Fphoto%2F17224%2Fhd-3d-cloud-storage-web-hosting-icon-png&psig=AOvVaw2DvPc1QgHMWvbiSsi5OMQn&ust=1678009409035000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIih76_-wf0CFQAAAAAdAAAAABAD", layout="wide")
 # plt.pie(y)
