@@ -5,8 +5,8 @@ matplotlib
 base64
 plotly.express
 numpy
-option_menu
 streamlit_option_menu
+option_menu
 Image
 PIL
 requests
